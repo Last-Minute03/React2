@@ -4,6 +4,7 @@ import './App.css'
 export default function App() {
 
   const [name, setName] = useState('')
+  const [email, setEmail] = useState('') //start of phase 2
 
   return (
     <div>
