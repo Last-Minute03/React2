@@ -19,5 +19,5 @@ export default function App() {
       {/*  Then here we are just calling the name variable again with the updated value due to onChange */}
       <p>What you are typing : {name}</p>
     </div>
-  )
+  ) //Part 1 is complete
 }
